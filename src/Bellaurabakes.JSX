@@ -27,7 +27,7 @@ const GALLERY = [
     tag: "Gifting Boxes",
   },
   {
-    file: "dark-chocolate-rose-cake_jpg.jpg",
+    file: "dark-chocolate-rose-cake.jpg",
     title: "Dark Chocolate Rose Cake",
     tag: "Custom Cakes",
     tall: true,
@@ -38,7 +38,7 @@ const GALLERY = [
     tag: "Cupcakes",
   },
   {
-    file: "chocolate-layer-cake-slice_jpg.jpg",
+    file: "chocolate-layer-cake-slice.jpg",
     title: "Chocolate Layer Cake",
     tag: "Custom Cakes",
   },
