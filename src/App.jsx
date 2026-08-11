@@ -1,5 +1,5 @@
 import React from 'react'
-import Bellaurabakes from './Bellaurabakes';
+import Bellaurabakes from "./Bellaurabakes.jsx";
 
 const App = () => {
   return (
